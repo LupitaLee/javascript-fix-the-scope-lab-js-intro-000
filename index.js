@@ -13,7 +13,7 @@ function yourAnimal() {console.log (animal);
   // P.S.: Hard-coding 'cat' below will not work
   return animal
 }
-
+yourAnimal()
 
 
 function add2(n) {
